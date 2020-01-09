@@ -1,2 +1,2 @@
 class Artist
-  this Artist's name is JU
+  this artist's name is JUIC
