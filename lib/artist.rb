@@ -1,2 +1,3 @@
 class Artist
-  this artist's name is JUIC
+  this artists name is Juice WRLD
+end
